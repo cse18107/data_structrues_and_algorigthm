@@ -1,0 +1,49 @@
+{
+  // Use IntelliSense to learn about possible attributes.
+  // Hover to view descriptions of existing attributes.
+  // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+  "version": "0.2.0",
+  "configurations": [
+    {
+      "type": "java",
+      "name": "Launch SquareOfANumber",
+      "request": "launch",
+      "mainClass": "SquareOfANumber",
+      "projectName": "Data Structures ans Algorithms_700d55e8"
+    },
+    {
+      "type": "java",
+      "name": "Launch EmptyTriangle",
+      "request": "launch",
+      "mainClass": "EmptyTriangle",
+      "projectName": "Data Structures ans Algorithms_700d55e8"
+    },
+    {
+      "type": "java",
+      "name": "Launch Triangle",
+      "request": "launch",
+      "mainClass": "Triangle",
+      "projectName": "Data Structures ans Algorithms_700d55e8"
+    },
+    {
+      "type": "java",
+      "name": "Launch SolidRectangle",
+      "request": "launch",
+      "mainClass": "SolidRectangle",
+      "projectName": "Data Structures ans Algorithms_700d55e8"
+    },
+    {
+      "type": "java",
+      "name": "Launch Current File",
+      "request": "launch",
+      "mainClass": "${file}"
+    },
+    {
+      "type": "java",
+      "name": "Launch FirstClass",
+      "request": "launch",
+      "mainClass": "FirstClass",
+      "projectName": "Data Structures ans Algorithms_700d55e8"
+    }
+  ]
+}
