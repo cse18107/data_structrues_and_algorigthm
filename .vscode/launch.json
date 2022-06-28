@@ -6,6 +6,20 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch PrintNumberBacktracking",
+      "request": "launch",
+      "mainClass": "PrintNumberBacktracking",
+      "projectName": "Data Structures ans Algorithms_700d55e8"
+    },
+    {
+      "type": "java",
+      "name": "Launch PrintNumbers1",
+      "request": "launch",
+      "mainClass": "PrintNumbers1",
+      "projectName": "Data Structures ans Algorithms_700d55e8"
+    },
+    {
+      "type": "java",
       "name": "Launch SquareOfANumber",
       "request": "launch",
       "mainClass": "SquareOfANumber",

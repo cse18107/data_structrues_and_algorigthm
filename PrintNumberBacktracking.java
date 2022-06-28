@@ -1,7 +1,8 @@
-// Print numbers from 5 to 1
+// Print number from 1 to 5
 import java.util.Scanner;
 
-public class PrintNumbers1 {
+
+public class PrintNumberBacktracking {
     public static void main(String[]args){
         Scanner scanner = new Scanner(System.in);
         int n = scanner.nextInt();
@@ -12,7 +13,7 @@ public class PrintNumbers1 {
         if(n==0){
             return ;
         }
-        System.out.println(n);
         printNumber(n-1);
+        System.out.println(n);
     }
 }
