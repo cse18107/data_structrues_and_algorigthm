@@ -6,6 +6,34 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch MailShape3",
+      "request": "launch",
+      "mainClass": "MailShape3",
+      "projectName": "Data Structures ans Algorithms_700d55e8"
+    },
+    {
+      "type": "java",
+      "name": "Launch MailShape2",
+      "request": "launch",
+      "mainClass": "MailShape2",
+      "projectName": "Data Structures ans Algorithms_700d55e8"
+    },
+    {
+      "type": "java",
+      "name": "Launch MailShape1",
+      "request": "launch",
+      "mainClass": "MailShape1",
+      "projectName": "Data Structures ans Algorithms_700d55e8"
+    },
+    {
+      "type": "java",
+      "name": "Launch MailShape",
+      "request": "launch",
+      "mainClass": "MailShape",
+      "projectName": "Data Structures ans Algorithms_700d55e8"
+    },
+    {
+      "type": "java",
       "name": "Launch PrintNumberBacktracking",
       "request": "launch",
       "mainClass": "PrintNumberBacktracking",
