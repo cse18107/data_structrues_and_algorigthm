@@ -6,6 +6,13 @@
   "configurations": [
     {
       "type": "java",
+      "name": "Launch LC_reversestring",
+      "request": "launch",
+      "mainClass": "LC_reversestring",
+      "projectName": "Data Structures ans Algorithms_700d55e8"
+    },
+    {
+      "type": "java",
       "name": "Launch MailShape3",
       "request": "launch",
       "mainClass": "MailShape3",
